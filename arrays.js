@@ -39,4 +39,3 @@ function removeElementFromEndOfArray(array) {
 function array(array) {
   var array = [1,2,3]
 }
-
