@@ -5,3 +5,4 @@ function removeElementFromEndOfArray(array) {
 var x = [1,2,3]
 console.log(x)
 removeElementFromEndOfArray(x)
+console.log(x)
