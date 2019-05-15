@@ -36,6 +36,4 @@ function removeElementFromEndOfArray(array) {
   array.slice(0, array.length - 1)
   return array
 }
-function array(array) {
-  var array = [1,2,3]
-}
+var array = [1,2,3]
