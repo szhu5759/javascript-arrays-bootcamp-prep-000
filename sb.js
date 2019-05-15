@@ -3,5 +3,5 @@ function removeElementFromEndOfArray(array) {
   return array
 }
 var x = [1,2,3]
-removeElementFromEndOfArray(x)  
+removeElementFromEndOfArray(x)
 return x
