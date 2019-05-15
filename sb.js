@@ -1,7 +1,5 @@
-function removeElementFromEndOfArray(array) {
-  array.slice(0, array.length - 1)
-}
-var x = [1,2,3]
-console.log(x)
-console.log(removeElementFromEndOfArray(x))
-console.log(x)
+var iceCreams = ["chocolate", "vanilla", "raspberry"]
+ 
+iceCreams.slice(0, iceCreams.length - 1) // ["chocolate", "vanilla"]
+ 
+iceCreams // ["chocolate", "vanilla", "raspberry"]
